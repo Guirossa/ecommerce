@@ -1,0 +1,57 @@
+.fundo{
+    background-color: aqua;
+    height: 100px;
+}
+
+.topo{
+    background-color: rgb(0, 0, 0);
+    height: 50px;
+}
+.topo1{
+    text-align: center;
+    color: aliceblue;
+    font-size: 4ch;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+.Barra{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    height: 30px;  
+}
+.barraanuncio{
+    text-align: center;
+    color: aliceblue;
+    line-height: 30px;
+}
+.navbar{
+    background-color: rgb(255, 255, 255);
+    height: 50%;
+    line-height: 50%;
+}
+.nav-link{
+    color: black;
+}
+.pesquisar{
+    text-align: left;    
+}
+.categoria{
+    width: 10%;
+    height: 1100%;
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card1{
+    margin-left: 55%;
+    margin-top: -56%;
+}
+.card2{
+    margin-left: 15%;
+    margin-top: -21%;
+}
+.card3{
+    margin-top: -22%;
+    margin-left: 35%;
+}
